@@ -18,4 +18,4 @@ iOS:        http://apple.co/3peu2lN
 Android:    http://bit.ly/3J24yR3
 
 ■ Qiitaにて主にUnityに関する技術記事を執筆しています。\
-qiita.com/Arihi
+https://qiita.com/Arihi
