@@ -21,3 +21,6 @@ Android:    http://bit.ly/3J24yR3
 
 ■ Qiitaにて主にUnityに関する技術記事を執筆しています。\
 https://qiita.com/Arihi
+
+■ Twitter\
+https://twitter.com/arihide_t
