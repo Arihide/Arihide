@@ -1,16 +1,13 @@
 ### 高橋 現秀
-タカハシ アリヒデ | Takahashi Arihide
-
-東京工業大学大学院にてVRの研究を行う傍ら、仲間とVRコンテストに出場しフランスで展示を行う。\
-その後DMM GAMEに新卒入社しUnityエンジニアとして既存タイトルの運用・新規タイトル開発に従事。
+##### タカハシ アリヒデ | Takahashi Arihide
 
 ### 略歴
 ■ 2019.04~        合同会社DMM GAMES(現:合同会社EXNOA)\
-Unityエンジニアとしてソーシャルゲーム運営・新規開発
+Unityエンジニアとしてソーシャルゲーム運営・新規タイトル開発
 
 ■ 2017.04~2019.03 東京工業大学大学院工学院情報通信系修士課程\
 Unityを用いたVRの研究\
-[111](http://ivrc.net/archive/gomu-gomu-shooting2017/)VRコンテンツ開発
+IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2017/)を展示・入賞
 
 ■ 2013.04~2017.03 芝浦工業大学工学部情報工学科
 
