@@ -14,6 +14,27 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
 
 ■ 2013.04~2017.03 芝浦工業大学工学部情報工学科
 
+### スキル
+* Unity
+  * C#　によるビュー・ロジック分離を意識したコンテンツ実装
+  * UniRx・UniTaskによる非同期処理・MVVMによる実装
+  * ShaderLab・Shader Graphを用いた表現の実装
+  * UnityEditor拡張を用いた各種ツール開発
+* Jenkins
+  * Unity・Xcode・Gradle　ビルドやアプリ署名の自動化
+  * Jenkinsfile(groovy)を用いたパイプライン構築
+* Blender
+  * モデリング・UV展開・リギング・Unity等への書き出し
+* Git
+  * commit, push, pullなどの基本的な操作
+  * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
+  * git-flowによる大規模・スプリントを意識した開発
+  * GitHub・Stash(Bitbucket)・GitLab
+* JavaScript
+  * three.jsによる3DWebGLコンテンツ開発
+* その他アプリの知識
+  * App Store ConnectやGoogle Play　Consoleによるアプリ審査提出経験
+
 ### 活動
 
 ■ 個人でモバイル向けカジュアルゲーム作っています。\
