@@ -17,6 +17,7 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
 ### スキル
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
+  * AssetBundleを用いたリソース管理
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いた表現の実装
   * UnityEditor拡張を用いた各種ツール開発
