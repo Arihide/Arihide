@@ -39,9 +39,9 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
 ### 活動
 
 * 個人でモバイル向けカジュアルゲーム作っています。
- * iOS:        http://apple.co/3peu2lN
- * Android:    http://bit.ly/3J24yR3
+  * iOS:        http://apple.co/3peu2lN
+  * Android:    http://bit.ly/3J24yR3
 * Qiitaにて主にUnityに関する技術記事を執筆しています。
- * https://qiita.com/Arihi
+  * https://qiita.com/Arihi
 * Twitter
- * https://twitter.com/arihide_t
+  * https://twitter.com/arihide_t
