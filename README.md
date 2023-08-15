@@ -30,20 +30,18 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
   * commit, push, pullなどの基本的な操作
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
   * git-flowによる大規模・スプリントを意識した開発
-  * GitHub・Stash(Bitbucket)・GitLab
+  * GitHub・Stash(Bitbucket)・GitLabによるチーム開発
 * JavaScript
   * three.jsによる3DWebGLコンテンツ開発
 * その他アプリの知識
-  * App Store ConnectやGoogle Play　Consoleによるアプリ審査提出経験
+  * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
 
 ### 活動
 
-■ 個人でモバイル向けカジュアルゲーム作っています。\
-iOS:        http://apple.co/3peu2lN
-Android:    http://bit.ly/3J24yR3
-
-■ Qiitaにて主にUnityに関する技術記事を執筆しています。\
-https://qiita.com/Arihi
-
-■ Twitter\
-https://twitter.com/arihide_t
+* 個人でモバイル向けカジュアルゲーム作っています。
+ * iOS:        http://apple.co/3peu2lN
+ * Android:    http://bit.ly/3J24yR3
+* Qiitaにて主にUnityに関する技術記事を執筆しています。
+ * https://qiita.com/Arihi
+* Twitter
+ * https://twitter.com/arihide_t
