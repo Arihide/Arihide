@@ -1,5 +1,6 @@
-### 高橋 現秀
-##### タカハシ アリヒデ | Takahashi Arihide
+## 高橋 現秀
+#### タカハシ アリヒデ | Takahashi Arihide
+モバイルゲームに特化したUnityエンジニアです
 
 ### 略歴
 ■ 2022.11~ Graffity株式会社\
@@ -34,7 +35,7 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
   * GitHub・Stash(Bitbucket)・GitLabによるチーム開発
 * JavaScript
   * three.jsによる3DWebGLコンテンツ開発
-* その他アプリの知識
+* その他
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
 
 ### 活動
