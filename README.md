@@ -21,8 +21,9 @@ IVRC2017にてチームで[VR作品](http://ivrc.net/archive/gomu-gomu-shooting2
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いた表現の実装
   * UnityEditor拡張を用いた各種ツール開発
+  * Firebase (Analytics, Cloud Messaging, Auth等)導入
 * Jenkins
-  * Unity・Xcode・Gradle　ビルドやアプリ署名の自動化
+  * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
 * Blender
   * モデリング・UV展開・リギング・Unity等への書き出し
