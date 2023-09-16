@@ -21,7 +21,8 @@ Unityを用いたVRの研究
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いた表現の実装
   * UnityEditor拡張を用いた各種ツール開発
-  * Firebase (Analytics, Cloud Messaging, Auth等)導入
+  * Firebase Analyticsによるログ送信
+  * Firebase Authによる外部アカウント連携
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
