@@ -22,6 +22,7 @@ Unityを用いたVRの研究
   * ShaderLab・Shader Graphを用いた表現の実装
   * UnityEditor拡張を用いた各種ツール開発
   * Firebase Analyticsによるログ送信
+  * Firebase Cloud MessagingによるPUSH通知
   * Firebase Authによる外部アカウント連携
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
