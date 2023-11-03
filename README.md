@@ -17,6 +17,7 @@ Unityを用いたVRの研究
 ### スキル
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
+  * Laravel/Ruby on RailsとAPIを介した通信処理
   * AssetBundleを用いたリソース管理
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いた表現の実装
@@ -24,6 +25,7 @@ Unityを用いたVRの研究
   * Firebase Analyticsによるログ送信
   * Firebase Cloud MessagingによるPUSH通知
   * Firebase Authによる外部アカウント連携
+  * Unity IAPを用いた課金・サーバーへのレシート送信・レシート復元処理
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
