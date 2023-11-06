@@ -26,6 +26,7 @@ Unityを用いたVRの研究
   * Firebase Cloud MessagingによるPUSH通知
   * Firebase Authによる外部アカウント連携
   * Unity IAPを用いた課金・サーバーへのレシート送信・レシート復元処理
+  * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
