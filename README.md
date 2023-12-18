@@ -40,6 +40,7 @@ Unityを用いたVRの研究
 * JavaScript
   * three.jsによる3DWebGLコンテンツ開発
 * その他
+  * テックリード経験
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
 
 ### 活動
