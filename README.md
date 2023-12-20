@@ -20,7 +20,7 @@ Unityを用いたVRの研究
   * Laravel/Ruby on RailsとAPIを介した通信処理
   * AssetBundleを用いたリソース管理
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
-  * ShaderLab・Shader Graphを用いた表現の実装
+  * ShaderLab・Shader Graphを用いたシェーダー実装
   * UnityEditor拡張を用いた各種ツール開発
   * Firebase Analyticsによるログ送信
   * Firebase Cloud MessagingによるPUSH通知
