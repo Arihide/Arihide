@@ -14,6 +14,13 @@ Unityを用いたVRの研究
 
 ■ 2013.04~2017.03 芝浦工業大学工学部情報工学科
 
+#### 副業
+■ 2023.11~ 株式会社デジリハ\
+リハビリツールの改修・ログの送信処理の実装
+
+■ 2024.1~ 株式会社Astran\
+英単語アプリの開発
+
 ### スキル
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
@@ -26,6 +33,7 @@ Unityを用いたVRの研究
   * Firebase Cloud MessagingによるPUSH通知
   * Firebase Authによる外部アカウント連携
   * Unity IAPを用いた課金・サーバーへのレシート送信・レシート復元処理
+  * OpenAPI/Swaggerを用いたスキーマ定義/API生成
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
@@ -52,4 +60,5 @@ Unityを用いたVRの研究
   * https://qiita.com/Arihi
 * Twitter
   * https://twitter.com/arihide_t
-* [IVRC2017](http://ivrc.net/archive/gomu-gomu-shooting2017/)
+* MENTA
+  * https://menta.work/user/63403
