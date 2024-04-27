@@ -24,15 +24,16 @@ Unityを用いたVRの研究
 ### スキル
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
-  * Laravel/Ruby on RailsとAPIを介した通信処理
-  * AssetBundleを用いたリソース管理
+  * Laravel/Ruby on Rails/Goなど、APIを介した通信処理
+  * Addresabbles・AssetBundleを用いたリソース管理
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いたシェーダー実装
   * UnityEditor拡張を用いた各種ツール開発
   * Firebase Analyticsによるログ送信
   * Firebase Cloud MessagingによるPUSH通知
-  * Firebase Authによる外部アカウント連携
-  * Unity IAPを用いた課金・サーバーへのレシート送信・レシート復元処理
+  * Firebase AuthによるJWT認証・外部アカウント連携
+  * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
+  * Adjust/AppsFlyerによる分析SDK導入
   * OpenAPI/Swaggerを用いたスキーマ定義/API生成
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
 * Jenkins
@@ -45,8 +46,6 @@ Unityを用いたVRの研究
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
   * git-flowによる大規模・スプリントを意識した開発
   * GitHub・Stash(Bitbucket)・GitLabによるチーム開発
-* JavaScript
-  * three.jsによる3DWebGLコンテンツ開発
 * その他
   * テックリード経験
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
@@ -58,7 +57,7 @@ Unityを用いたVRの研究
   * Android:    http://bit.ly/3J24yR3
 * Qiitaにて主にUnityに関する技術記事を執筆しています。
   * https://qiita.com/Arihi
-* Twitter
+* X
   * https://twitter.com/arihide_t
 * MENTA
   * https://menta.work/user/63403
