@@ -25,13 +25,13 @@ Unityを用いたVRの研究
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
   * Laravel/Ruby on Rails/Goなど、APIを介した通信処理
-  * Addresabbles・AssetBundleを用いたリソース管理
+  * Addressable Asset Systemを用いた外部リソースDL処理構築経験
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いたシェーダー実装
   * UnityEditor拡張を用いた各種ツール開発
   * Firebase Analyticsによるログ送信
   * Firebase Cloud MessagingによるPUSH通知
-  * Firebase AuthによるJWT認証・外部アカウント連携
+  * Firebase Authによる匿名ログイン・JWT認証・外部アカウント連携
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
   * Adjust/AppsFlyerによる分析SDK導入
   * OpenAPI/Swaggerを用いたスキーマ定義/API生成
@@ -44,7 +44,7 @@ Unityを用いたVRの研究
 * Git
   * commit, push, pullなどの基本的な操作
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
-  * git-flowによる大規模・スプリントを意識した開発
+  * git-flowによる運用・スプリントを意識した開発
   * GitHub・Stash(Bitbucket)・GitLabによるチーム開発
 * その他
   * テックリード経験
