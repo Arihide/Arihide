@@ -59,5 +59,5 @@ Unityを用いたVRの研究
   * https://qiita.com/Arihi
 * X
   * https://twitter.com/arihide_t
-* MENTA
-  * https://menta.work/user/63403
+* Wantedly
+  * https://www.wantedly.com/id/arihide
