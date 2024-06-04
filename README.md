@@ -26,6 +26,7 @@ Unityを用いたVRの研究
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
   * Laravel/Ruby on Rails/Goなど、APIを介した通信処理
   * Addressable Asset Systemを用いた外部リソースDL処理構築経験
+  * Localizationを用いた多言語対応
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
   * ShaderLab・Shader Graphを用いたシェーダー実装
   * UnityEditor拡張を用いた各種ツール開発
