@@ -34,10 +34,9 @@ Unityを用いたVRの研究
   * OpenAPI/Swaggerを用いたスキーマ定義/API生成
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
 * Jenkins
-  * Unity・Xcode・Gradle ビルドやアプリ署名の自動化
+  * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
+  * S3/Azure Blobへのアセットバンドルアップロードの自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
-* Blender
-  * モデリング・UV展開・リギング・Unity等への書き出し
 * Git
   * commit, push, pullなどの基本的な操作
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
@@ -46,6 +45,9 @@ Unityを用いたVRの研究
 * その他
   * テックリード経験
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
+  * Blenderを用いたモデリング・UV展開・リギング・Unity等への書き出し
+  * Figmaを用いた素材書き出し・簡単なゲームやストア素材の作成
+  * Sequel/SQLを用いたDB操作
 
 ### 活動
 
