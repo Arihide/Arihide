@@ -29,6 +29,7 @@ Unityを用いたVRの研究
   * Firebase Analyticsによるログ送信
   * Firebase Cloud MessagingによるPUSH通知
   * Firebase Authによる匿名ログイン・JWT認証・外部アカウント連携
+  * Firebase Firestoreを用いたNoSQL型のデータベース設計・アプリ側からの読み込み・書き込み
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
   * Adjust/AppsFlyerによる分析SDK導入
   * OpenAPI/Swaggerを用いたスキーマ定義/API生成
