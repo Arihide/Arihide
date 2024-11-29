@@ -20,7 +20,7 @@ Unityを用いたVRの研究
 ### スキル
 * Unity
   * C#によるビュー・ロジック分離を意識したコンテンツ実装
-  * Laravel/Ruby on Rails/Goなど、APIを介した通信処理
+  * UnityWebRequestやOpenAPI Generatorを用いた、サーバーとのAPI通信処理
   * Addressable Asset Systemを用いた外部リソースDL処理構築経験
   * Localizationを用いた多言語対応
   * UniRx・UniTaskによる非同期処理・MVVMによる実装
@@ -32,7 +32,7 @@ Unityを用いたVRの研究
   * Firebase Firestoreを用いたNoSQL型のデータベース設計・アプリ側からの読み込み・書き込み
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
   * Adjust/AppsFlyerによる分析SDK導入
-  * OpenAPI/Swaggerを用いたスキーマ定義/API生成
+  * WebViewを用いたアプリ内に外部更新可能な機能構築
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
