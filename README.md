@@ -46,6 +46,7 @@ Unityを用いたVRの研究
 * その他
   * テックリード経験
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
+  * iOS用のネイティブプラグイン作成(Swift/ObjC)・CocoaPodsへのリリース経験
   * Blenderを用いたモデリング・UV展開・リギング・Unity等への書き出し
   * Figmaを用いた素材書き出し・簡単なゲームやストア素材の作成
   * Sequel/SQLを用いたDB操作
@@ -59,5 +60,7 @@ Unityを用いたVRの研究
   * https://qiita.com/Arihi
 * X
   * https://twitter.com/arihide_t
+* MENTAでUnityエンジニアメンターとして支援しています。
+  * https://menta.work/user/63403 
 * Wantedly
   * https://www.wantedly.com/id/arihide
