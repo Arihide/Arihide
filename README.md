@@ -65,8 +65,8 @@ Unityを用いたVRの研究
 ### 活動
 
 * 個人でモバイル向けカジュアルゲーム作っています。
-  * iOS:        http://apple.co/3peu2lN
-  * Android:    http://bit.ly/3J24yR3
+  * iOS:        https://apps.apple.com/jp/developer/arihide-takahashi/id1578292227
+  * Android:    https://play.google.com/store/apps/developer?id=Arihide
 * Qiitaにて主にUnityに関する技術記事を執筆しています。
   * https://qiita.com/Arihi
 * X
