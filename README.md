@@ -19,7 +19,7 @@ Unityを用いたVRの研究
 
 #### 副業
  ■ 2024.12~ 株式会社AdMel\
- Unity・Objective-Cによる広告SDKの開発
+ Unity・Objective-C・Kotlin・Flutter等によるアプリ内広告SDKの開発
  
  ■ 2023.11~2024.05 株式会社デジリハ\
  リハビリツールの改修・ログAPI送信基盤の実装
