@@ -45,9 +45,10 @@ Unityを用いたVRの研究
   * Adjust/AppsFlyerによる分析SDK導入
   * WebViewを用いたアプリ内に外部更新可能な機能構築
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
+  * WebSocketを用いた双方向リアルタイム対戦システムの開発
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
-  * S3/Azure Blobへのアセットバンドルアップロードの自動化
+  * Amazon S3/Azure Blobへのアセットバンドルアップロードの自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
 * Git
   * commit, push, pullなどの基本的な操作
