@@ -44,8 +44,9 @@ Unityを用いたVRの研究
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
   * Adjust/AppsFlyerによる分析SDK導入
   * WebViewを用いたアプリ内に外部更新可能な機能構築
-  * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
   * WebSocketを用いた双方向リアルタイム対戦システムの開発
+  * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
+  * gRPC,HTTP/2による通信基盤の構築
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
   * Amazon S3/Azure Blobへのアセットバンドルアップロードの自動化
