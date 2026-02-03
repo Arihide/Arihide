@@ -42,7 +42,8 @@ Unityを用いたVRの研究
   * Firebase Authによる匿名ログイン・JWT認証・外部アカウント連携
   * Firebase Firestoreを用いたNoSQL型のデータベース設計・アプリ側からの読み込み・書き込み
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
-  * Adjust/AppsFlyerによる分析SDK導入
+  * Adjust/AppsFlyerの分析SDKや、Metaなどの広告SDK導入、各種連携、他アプリへの広告配信最適化
+  * AdMobや各種メディエーションの導入、他社広告の表示やeCPM最適化、広告収益の最適化
   * WebViewを用いたアプリ内に外部更新可能な機能構築
   * WebSocketを用いた双方向リアルタイム対戦システムの開発
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
@@ -59,10 +60,11 @@ Unityを用いたVRの研究
 * その他
   * テックリード経験
   * App Store ConnectやGoogle Play Consoleによるアプリ審査提出経験
-  * iOS用のネイティブプラグイン作成(Swift/ObjC)・CocoaPodsへのリリース経験
+  * iOS用のネイティブプラグイン作成(Swift/obj-c)・CocoaPodsへのリリース経験
   * Blenderを用いたモデリング・UV展開・リギング・Unity等への書き出し
   * Figmaを用いた素材書き出し・簡単なゲームやストア素材の作成
-  * Sequel/SQLを用いたDB操作
+  * Sequel/TablePlus/SQLを用いたDB操作
+  * Claude Code/AntigravityなどによるAI導入によるバグ修正自動化による安定性向上や機能開発工数の削減
 
 ### 活動
 
