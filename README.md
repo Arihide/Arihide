@@ -43,17 +43,17 @@ Unityを用いたVRの研究
   * Firebase Firestoreを用いたNoSQL型のデータベース設計・アプリ側からの読み込み・書き込み
   * Unity IAPを用いた課金・サーバーへのトランザクションを考慮したレシート送信・レシート復元処理
   * Adjust/AppsFlyerの分析SDKや、Metaなどの広告SDK導入、各種連携、他アプリへの広告配信最適化
-  * AdMobや各種メディエーションの導入、他社広告の表示やeCPM最適化、広告収益の最適化
+  * AdMobや各種メディエーションの導入、他社広告の表示や広告収益(eCPM)最適化
   * WebViewを用いたアプリ内に外部更新可能な機能構築
   * WebSocketを用いた双方向リアルタイム対戦システムの開発
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
   * gRPC,HTTP/2による通信基盤の構築
+  * ネイティブコードと連携したウィジェットの作成
 * Jenkins
   * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
   * Amazon S3/Azure Blobへのアセットバンドルアップロードの自動化
   * Jenkinsfile(groovy)を用いたパイプライン構築
 * Git
-  * commit, push, pullなどの基本的な操作
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
   * git-flowによる運用・スプリントを意識した開発
   * GitHub・Stash(Bitbucket)・GitLabによるチーム開発
