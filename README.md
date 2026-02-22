@@ -49,10 +49,11 @@ Unityを用いたVRの研究
   * Protocol Buffersを用いたAPI/マスタのスキーマ定義・データ圧縮
   * gRPC,HTTP/2による通信基盤の構築
   * ネイティブコードと連携したウィジェットの作成
-* Jenkins
+* CI/CD
   * Unity・Xcode・Gradle ビルドやアプリ署名・ストアアップロードの自動化
   * Amazon S3/Azure Blobへのアセットバンドルアップロードの自動化
-  * Jenkinsfile(groovy)を用いたパイプライン構築
+  * Jenkinsfile(groovy)を用いたJenkinsパイプライン構築
+  * GitHub Actionsを用いたUnityビルド自動化環境の構築
 * Git
   * rebase, reflogなどコミットログを辿ってのツリーの確認・修正
   * git-flowによる運用・スプリントを意識した開発
